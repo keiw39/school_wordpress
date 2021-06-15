@@ -1,13 +1,14 @@
 # school_wordpress
-WordPressを用いた「TOEFLスクール」のWebサイト構築
 
-- TOP ＋ 下層 9 ページ<br>
+WordPress を用いた「TOEFL スクール」の Web サイト構築
+
+- TOP ＋ 下層 8 ページ<br>
 
 ※XD デザインカンプからのコーディング
 
 ## 実装したサイト
 
-- [TAKUYA NAKANO - Portfolio](https://works06.k-watanabe39.com/)
+- [Engress](https://works01.k-watanabe39.com/)
 
 BASIC 認証をかけてます。
 
@@ -16,21 +17,14 @@ PW：works
 
 ### ポイント
 
-- マウスカーソルのデザイン変更
-- メインヴィジュアルの名前の無限横スクロール
-- ページ遷移時のローディングアニメーションの実装
-- ハンバーガーメニューのメニュー項目のフェードインアニメーション
-- 各要素にフェードインアニメーションを実装
-- パララックス効果を付与
-- 慣性スクロールをレスポンシブで切り替え
-- スクロール位置によって WORKS セクションの背景色変更
 - パンくずリストは「Breadcrumb NavXT」を使用
 - コンタクトフォームは「MW WP Form」を使用
-- コンタクトフォームのバリデーションをリアルタイムで表示
-- WORKS はカスタム投稿で実装(functions.php へ記述)
+- 「お知らせ」はカスタム投稿で実装(functions.php へ記述)
 - カスタム分類(タクソノミー)は「Custom Post Type UI」で実装
-- WORKS 詳細ページはカスタムフィールドで実装(Advanced Custom Fields)
-- ページャーは「WP-PageNavi」を使用
+- お客様からも変更しやすく、TOP の事例部分および料金部分はカスタムフィールドで実装(Advanced Custom Fields)
+- ページャーはプラグインを使用せず functions.php にて実装
+- コンタクトフォームは、全項目入力しないと送信ボタンを押下できないよう設定
+- ブログ個別記事の SNS ボタンは「wp_social_bookmarking_light」を使用
 
 ## 制作環境について
 
