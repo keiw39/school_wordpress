@@ -1,7 +1,6 @@
 # school_wordpress
 
 - WordPress を用いた「TOEFL スクール」の Web サイト構築
-
 - TOP ＋ 下層 8 ページ<br>
 
 ※XD デザインカンプからのコーディング
