@@ -73,4 +73,4 @@ picture 要素を使用して、WebP 対応・非対応のブラウザ環境ご�
 
 ## 経緯
 
-[CODE MENTOR](https://codementor.arutega.jp/)様での課題を基に制作しました。
+[Web制作フリーランサーShogo様](https://note.com/samuraibrass/n/n9faac1c35977)制作のデザインカンプを基に制作させて頂きました。
